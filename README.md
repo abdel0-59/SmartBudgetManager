@@ -13,3 +13,5 @@ SmartBudget Manager is an Excel workbook that helps users manage their money. It
 4. Choose the correct type and category.
 5. Check the Dashboard to see your budget.
 6. Save the file if you want to keep the result.
+
+Ce projet est mon premier dépôt Git.
