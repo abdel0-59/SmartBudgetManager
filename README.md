@@ -7,7 +7,7 @@ SmartBudget Manager is an Excel workbook that helps users manage their money. It
 - Basic Excel skills
 - A computer
 3 - How to Start :
-1. Open the Excel file.
+1. Open the Excel file. 
 2. Go to the Transactions sheet.
 3. Enter your income and expenses.
 4. Choose the correct type and category.
